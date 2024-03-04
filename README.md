@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything tech related :)
 - 🌱 I’m currently studying in Engineering and IT
 - 💞️ I’m not looking to collaborate at this time 
-- 📫 How to reach me buscemistephen82@gmail.com
+- 📫 How to reach me rapseyjosh@gmail.com
 
 <!---
 Saucq/Saucq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
