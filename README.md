@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saucq
 - 👀 I’m interested in anything tech related :)
-- 🌱 I’m currently studying in Engineering and IT
+- 🌱 I’m currently studying in IT
 - 💞️ I’m not looking to collaborate at this time 
 - 📫 How to reach me rapseyjosh@gmail.com
 
